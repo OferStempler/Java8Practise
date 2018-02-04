@@ -1,4 +1,4 @@
-package methodRef;
+package ofer.stempler.methodRef;
 
 public class SomeStaticComparator {
 	public static int check(String s1, String s2){

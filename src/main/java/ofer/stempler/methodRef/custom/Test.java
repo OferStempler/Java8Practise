@@ -1,4 +1,4 @@
-package methodRef.custom;
+package ofer.stempler.methodRef.custom;
 
 public class Test {
 

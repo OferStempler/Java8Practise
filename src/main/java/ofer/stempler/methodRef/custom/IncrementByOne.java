@@ -1,4 +1,4 @@
-package methodRef.custom;
+package ofer.stempler.methodRef.custom;
 
 @FunctionalInterface
 public interface IncrementByOne<T> {

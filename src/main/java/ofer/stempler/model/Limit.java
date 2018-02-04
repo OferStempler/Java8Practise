@@ -1,5 +1,6 @@
+package ofer.stempler.model;
+
 import java.util.stream.DoubleStream;
-import java.util.stream.IntStream;
 
 public class Limit {
 

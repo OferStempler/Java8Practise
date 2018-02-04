@@ -1,4 +1,4 @@
-package methodRef.custom;
+package ofer.stempler.methodRef.custom;
 
 import java.util.function.Supplier;
 
